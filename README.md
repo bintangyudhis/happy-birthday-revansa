@@ -33,6 +33,10 @@ python3 -m http.server 8000
 
 Setelah itu buka `http://localhost:8000` di browser. Membuka `index.html` langsung dari berkas juga bisa, selama koneksi internet tersedia untuk memuat GSAP, SweetAlert2, dan font dari CDN.
 
+## Tangkapan Layar
+
+![Tangkapan layar halaman utama](docs/screenshot.png)
+
 ## Lisensi
 
 Proyek ini memakai lisensi MIT. Lihat berkas [LICENSE](LICENSE) untuk teks lengkapnya.
